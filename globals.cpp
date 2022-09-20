@@ -1,5 +1,5 @@
 #include "main.h"
-
+using namespace pros;
 
 //MOTORS
 pros::Motor leftFront(1, pros::E_MOTOR_GEARSET_06, false,pros::E_MOTOR_ENCODER_COUNTS);
